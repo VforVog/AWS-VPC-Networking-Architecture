@@ -15,7 +15,7 @@ The public EC2 (bastion host) acts as a secure entry point, while the private EC
 
 
 
-
+ 
 ## 🛠️ Technologies Used
 
 | Service            | Purpose                                                                 |
