@@ -2,7 +2,7 @@
 
 This project demonstrates the **architecture and hands-on implementation of AWS networking fundamentals** using best practices.  
 
-The setup includes:  
+The setup includes:   
 - A **custom VPC** with public and private subnets  
 - An **Internet Gateway** for public resources  
 - A **NAT Gateway** for secure outbound access from private resources  
